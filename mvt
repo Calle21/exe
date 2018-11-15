@@ -1,0 +1,3 @@
+ # move and touch a file
+
+mv $1 $2 && touch $2
